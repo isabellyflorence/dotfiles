@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = florenceisabelly@gmail.com
+	name = Isabelly Florence
